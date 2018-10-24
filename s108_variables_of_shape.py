@@ -1,5 +1,7 @@
 # 사각형 그리기 응용
 
+print("Hello git")
+
 import turtle
 
 size = input('사각형의 크기를 입력하세요.[100~300] ')
