@@ -1,5 +1,7 @@
 # 세트형 , Set
 
+
+
 # 세트형 생성
 lang = {'Java', 'Java', 'Python', 'C++', 'Python'}
 print(lang)
